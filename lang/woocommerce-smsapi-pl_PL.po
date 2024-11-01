@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce SMSAPI v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-12 13:17+0100\n"
+"PO-Revision-Date: 2015-05-12 13:27+0100\n"
+"Last-Translator: Maciej Swoboda <maciek@inspirelabs.pl>\n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ inspire-plugin
+#: class/inspire/plugin4.php:218
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+# @ inspire-plugin
+#: class/inspire/plugin4.php:223
+msgid "An unknown error occurred"
+msgstr ""
+
+# @ inspire-plugin
+#: class/inspire/plugin4.php:387
+msgid "Ustawienia"
+msgstr ""
+
+# @ inspire-plugin
+#: class/inspire/plugin4.php:388
+msgid "Dokumentacja"
+msgstr ""
+
+# @ inspire-plugin
+#: class/inspire/plugin4.php:389
+msgid "Wsparcie"
+msgstr ""
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:23
+msgid "SMSAPI"
+msgstr "SMSAPI"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:24
+#, php-format
+msgid ""
+"WooCommerce integration with SMSAPI. <a href=\"%s\" target=\"_blank\">Check "
+"out the docs &rarr;</a>"
+msgstr ""
+"Integracja WooCommerce z SMSAPI. <a href=\"%s\" target=\"_blank\">Sprawdź "
+"dokumentację &rarr;</a>"
+
+#: class/wcSmsApiIntegration.php:93 class/wcSmsApiIntegration.php:248
+msgid "SMS Marketing"
+msgstr "SMS Marketing"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:203
+msgid "Error. Please fill in valid API login and password."
+msgstr "Błąd. Proszę, uzupełnij poprawny login i hasło API."
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:206
+msgid "OK"
+msgstr "OK"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:210
+msgid "Connection status:"
+msgstr "Status połączenia:"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:220 class/wcSmsApiIntegration.php:275
+#: class/wcSmsApiIntegration.php:289 class/wcSmsApiIntegration.php:303
+msgid "Enable"
+msgstr "Włącz"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:221
+msgid "Enable SMSAPI integration"
+msgstr "Włącz integrację z SMSAPI"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:226
+msgid "API Login"
+msgstr "Login API"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:229
+msgid "Username or main email address of your SMSAPI account."
+msgstr "Nazwa użytkownika lub główny adres e-mail twojego konta SMSAPI."
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:233
+msgid "API Password"
+msgstr "Hasło API"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:236
+msgid ""
+"SMSAPI account password. You can set separate API password in your account "
+"settings."
+msgstr ""
+"Hasło do konta SMSAPI. Możesz ustawić osobne hasło do API w ustawieniach "
+"konta."
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:240
+msgid "SMS Type"
+msgstr "Typ wiadomości"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:247
+msgid "Enable user consent to SMS Marketing"
+msgstr "Włącz zgodę użytkownika na SMS marketing"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:251
+msgid ""
+"Checkbox will be added to checkout page allowing users to agree to SMS "
+"marketing."
+msgstr ""
+"Zostanie dodany checkbox do strony zamówienia, który umożliwi użytkownikowi "
+"wyrażenie zgody na SMS marketing."
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:254
+msgid "Checkbox checked by default"
+msgstr "Checkbox domyślnie zaznaczony"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:260
+msgid "Checkbox label"
+msgstr "Etykieta przy checkboksie"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:262
+msgid "I agree to receiving marketing content via SMS"
+msgstr "Zgadzam się na otrzymywanie marketingowych wiadomości SMS"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:265
+msgid "Checkbox position"
+msgstr "Pozycja checkboksa"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:268
+msgid "Above Place order button"
+msgstr "Nad przyciskiem złożenia zamówienia"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:269
+msgid "Below Place order button"
+msgstr "Pod przyciskiem złożenia zamówienia"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:274
+msgid "Processing order SMS"
+msgstr "SMS dla zamówienia w trakcie realizacji"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:278
+msgid "SMS will be sent when order status is changed to processing."
+msgstr ""
+"SMS zostanie wysłany po zmianie statusu zamówienia na w trakcje realizacji"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:282
+msgid "Processing order SMS text"
+msgstr "Treść SMSa dla zamówienia w trakcje realizacji"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:284
+#, php-format
+msgid "Your order status at %s changed to processing."
+msgstr ""
+"Status twojego zamówienia w %s został zmieniony na w trakcie realizacji."
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:285 class/wcSmsApiIntegration.php:299
+msgid ""
+"Max 160 characters. Please note that if you use special characters the limit "
+"is 70 characters."
+msgstr ""
+"Maksymalnie 160 znaków. Zwróć uwagę, że jeśli wpiszesz znaki specjalne (w "
+"tym polskie znaki) limit wyniesie 70 znaków."
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:288
+msgid "Completed order SMS"
+msgstr "SMS dla zrealizowanego zamówienia"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:292
+msgid "SMS will be sent when order status is changed to completed."
+msgstr "SMS zostanie wysłany po zmianie statusu zamówienia na zrealizowane."
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:296
+msgid "Completed order SMS text"
+msgstr "Treść SMSa dla zrealizowanego zamówienia"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:298
+#, php-format
+msgid "Your order status at %s changed to completed."
+msgstr "Status twojego zamówienia w %s został zmieniony na zrealizowane."
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:302
+msgid "Customer note SMS"
+msgstr "SMS dla notatki dla klienta"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:306
+msgid "Text will be taken from the customer note."
+msgstr "Tekst zostanie pobrany z treści notatki."
+
+#: class/wcSmsApiIntegration.php:378
+msgid "Message contains special characters."
+msgstr "Wiadomość zawiera znaki specjalne."
+
+#: class/wcSmsApiIntegration.php:378
+msgid "Number of parts: "
+msgstr "Liczba części:"
+
+#: class/wcSmsApiIntegration.php:378
+msgid "Characters left: "
+msgstr "Pozostało znaków:"
+
+# @ woocommerce-smsapi
+#: class/wcSmsApiIntegration.php:399
+#, php-format
+msgid ""
+"You are running out of funds. In order to keep sending SMS messages, <a href="
+"\"%s\" target=\"_blank\">log in</a> to you SMSAPI account and buy more "
+"points."
+msgstr ""
+"Środki na twoim koncie się kończą. Aby dalej wysyłać wiadomości SMS, <a href="
+"\"%s\" target=\"_blank\">zaloguj się</a> na swoje konto w SMSAPI i kup "
+"więcej punktów."
+
+# @ woocommerce-smsapi
+#: woocommerce-smsapi.php:89
+msgid "Settings"
+msgstr "Ustawienia"
+
+# @ woocommerce-smsapi
+#: woocommerce-smsapi.php:90
+msgid "Docs"
+msgstr "Dokumentacja"
+
+# @ woocommerce-smsapi
+#: woocommerce-smsapi.php:91
+msgid "Support"
+msgstr "Wsparcie"

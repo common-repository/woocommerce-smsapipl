@@ -1,0 +1,41 @@
+[
+    {
+        "name": "smsapi/php-client",
+        "version": "1.3.3",
+        "version_normalized": "1.3.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/smsapi/smsapi-php-client.git",
+            "reference": "7a775562f357ec8d08041f132d8101124908f890"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/smsapi/smsapi-php-client/zipball/7a775562f357ec8d08041f132d8101124908f890",
+            "reference": "7a775562f357ec8d08041f132d8101124908f890",
+            "shasum": ""
+        },
+        "require-dev": {
+            "apigen/apigen": "~4.0",
+            "phpunit/phpunit": "4.1.*"
+        },
+        "time": "2015-04-21 10:32:52",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "SMSApi\\": "smsapi"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "description": "Library for communicating with provider",
+        "homepage": "http://smsapi.pl",
+        "keywords": [
+            "mms",
+            "sms",
+            "vms"
+        ]
+    }
+]

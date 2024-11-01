@@ -1,0 +1,33 @@
+/* Settings */
+.inspire-settings img.ui-datepicker-trigger {
+	cursor: pointer;
+	margin-top: -1px;
+	vertical-align: middle;
+}
+
+.inspire-settings table.form-table textarea.wide-input {
+	width: 100%;
+}
+
+.inspire-settings {
+	display: table;
+	width: 100%;
+}
+
+.inspire-settings .inspire-main-content,
+.inspire-settings .inspire-sidebar {
+	display: table-cell;
+	height: 500px;
+	margin: 0;
+	padding: 0;
+	vertical-align: top;
+}
+
+.inspire-settings .inspire-main-content {
+	min-width: 800px;
+}
+
+.inspire-settings .inspire-sidebar {
+	padding-left: 30px;
+	width: 250px;
+}

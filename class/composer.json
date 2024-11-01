@@ -1,0 +1,5 @@
+{
+    "require": {
+        "smsapi/php-client": "1.3.*"
+    }
+}
